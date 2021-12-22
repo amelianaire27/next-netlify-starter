@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>This is a change! For Netlify Drag + Drop!</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
